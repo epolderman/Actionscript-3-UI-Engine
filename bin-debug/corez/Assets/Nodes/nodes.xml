@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:46d4157cf9a04ce642b1b30c6444aeb5:40a5c011fe09ea4945849c6d4ad1da05:52e76047e71056047e277fa75da34a93$ -->
+<TextureAtlas imagePath="nodes.png" width="1938" height="1954">
+    <SubTexture name="1" x="595" y="299" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="2" x="872" y="299" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="3" x="1" y="478" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="4" x="278" y="478" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="art" x="555" y="575" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="attacks" x="832" y="575" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="attacks00" x="1" y="754" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="bio1" x="278" y="754" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="bio2" x="1109" y="581" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="bio3" x="555" y="851" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="bio4" x="832" y="851" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="cells" x="1384" y="1685" width="211" height="221" frameX="-45" frameY="-40" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="cells2" x="1108" y="1686" width="211" height="221" frameX="-45" frameY="-40" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="cells3" x="1597" y="1688" width="211" height="221" frameX="-45" frameY="-40" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="emblem" x="1781" y="106" width="44" height="44" frameX="-128" frameY="-128" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="emblem2" x="1827" y="106" width="44" height="44" frameX="-128" frameY="-128" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="footer" x="1906" y="47" rotated="true" width="13" height="74" frameX="-192" frameY="-253" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="glow" x="595" y="1" rotated="true" width="300" height="296" frameX="-2" frameY="0" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="glow2" x="897" y="1" rotated="true" width="300" height="296" frameX="-2" frameY="0" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="loadingplaylistText" x="1886" y="1" rotated="true" width="18" height="172" frameX="-65" frameY="-141" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="music" x="1" y="1030" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="outer1" x="1199" y="1" width="289" height="289" frameX="-6" frameY="-6" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="outer2" x="1199" y="292" width="287" height="287" frameX="-7" frameY="-7" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="outer11" x="1490" y="1" width="289" height="289" frameX="-6" frameY="-6" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="outer22" x="1488" y="292" width="287" height="287" frameX="-7" frameY="-7" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel" x="278" y="1030" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel00" x="1386" y="581" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel01" x="1663" y="581" rotated="true" width="274" height="275" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel02" x="1109" y="857" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel03" x="1386" y="857" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel04" x="1663" y="858" rotated="true" width="274" height="275" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel05" x="555" y="1127" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="panel06" x="832" y="1127" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="play00" x="1" y="1306" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="play01" x="278" y="1306" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="play02" x="1109" y="1133" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="play03" x="1386" y="1133" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="play04" x="1663" y="1135" rotated="true" width="274" height="275" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="play05" x="555" y="1403" rotated="true" width="274" height="275" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="playBrackets" x="554" y="1680" width="232" height="241" frameX="-34" frameY="-28" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="playCircle" x="1781" y="1" width="103" height="103" frameX="-98" frameY="-98" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="playText" x="1906" y="1" rotated="true" width="26" height="44" frameX="-128" frameY="-209" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="s00" x="831" y="1403" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="s01" x="1" y="1582" rotated="true" width="274" height="275" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="s02" x="277" y="1582" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="s03" x="1108" y="1409" rotated="true" width="274" height="275" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="s04" x="831" y="1679" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="s05" x="1384" y="1409" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="skullNode" x="1" y="1" width="592" height="475" frameX="-1704" frameY="-954" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="soundeffects" x="1661" y="1412" width="275" height="274" frameX="-13" frameY="-13" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7b8e6ff3ba0d875e3b47af87bbef2f3c:718182b0e3bdfe9792291409059362d3:c050ee269018990dd1777e1c1c4d3847$ -->
+<TextureAtlas imagePath="LoadingModuleAtlas.png" width="1962" height="1793">
+    <SubTexture name="Dotted" x="1326" y="1478" width="314" height="314" frameX="-468" frameY="-468" frameWidth="1250" frameHeight="1250"/>
+    <SubTexture name="inner" x="1326" y="966" width="510" height="510" frameX="-370" frameY="-370" frameWidth="1250" frameHeight="1250"/>
+    <SubTexture name="inner1" x="722" y="998" width="602" height="604" frameX="-325" frameY="-323" frameWidth="1250" frameHeight="1250"/>
+    <SubTexture name="loading" x="722" y="1604" width="293" height="88" frameX="-480" frameY="-584" frameWidth="1250" frameHeight="1250"/>
+    <SubTexture name="outer" x="998" y="1" width="963" height="963" frameX="-143" frameY="-143" frameWidth="1250" frameHeight="1250"/>
+    <SubTexture name="outer1" x="1" y="998" width="719" height="723" frameX="-266" frameY="-264" frameWidth="1250" frameHeight="1250"/>
+    <SubTexture name="scope" x="1" y="1" width="995" height="995" frameX="-128" frameY="-128" frameWidth="1250" frameHeight="1250"/>
+</TextureAtlas>

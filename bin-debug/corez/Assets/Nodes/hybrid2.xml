@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:627cda8758bc3a286d5b18e0a08deaac:d9c56797ae011fff93a4f2080f746dbb:09595d352c7ff5f8daa67cb093c1957e$ -->
+<TextureAtlas imagePath="hybrid2.png" width="1947" height="2038">
+    <SubTexture name="hybrid10" x="720" y="1" width="717" height="507" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid11" x="1439" y="1" rotated="true" width="507" height="717" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid12" x="720" y="510" width="717" height="507" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid13" x="1" y="512" width="717" height="507" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid14" x="1439" y="720" rotated="true" width="507" height="717" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid15" x="720" y="1019" width="717" height="507" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid16" x="1" y="1021" width="717" height="507" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid17" x="1" y="1530" width="717" height="507" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid18" x="720" y="1528" width="717" height="507" frameX="-1482" frameY="-1009" frameWidth="3528" frameHeight="2841"/>
+    <SubTexture name="hybrid19" x="1" y="1" width="717" height="509" frameX="-1482" frameY="-1007" frameWidth="3528" frameHeight="2841"/>
+</TextureAtlas>

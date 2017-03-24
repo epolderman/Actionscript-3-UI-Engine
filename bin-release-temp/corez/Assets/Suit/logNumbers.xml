@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fb911c398d828507d8aea26098d7c3fe:3ec3094fc6da9a0e51ce0a3f5b5693b6:6315f85a22aa59a1df3e28e2079fccde$ -->
+<TextureAtlas imagePath="logNumbers.png" width="392" height="31">
+    <SubTexture name="NUM_00" x="238" y="1" width="35" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_01" x="278" y="15" width="34" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_02" x="350" y="12" width="33" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_03" x="241" y="15" width="35" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_04" x="312" y="1" width="34" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_05" x="91" y="15" width="35" height="15" frameX="-1957" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_06" x="172" y="18" width="36" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_07" x="275" y="1" width="35" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_08" x="200" y="1" width="36" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_09" x="210" y="15" width="29" height="15" frameX="-1957" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_10" x="348" y="1" width="43" height="9" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_11" x="1" y="18" width="43" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_12" x="46" y="18" width="43" height="12" frameX="-1957" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_13" x="128" y="18" width="42" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_14" x="83" y="1" width="43" height="12" frameX="-1957" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_15" x="314" y="15" width="34" height="12" frameX="-1957" frameY="-1450" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_16" x="1" y="1" width="42" height="15" frameX="-1957" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_17" x="165" y="1" width="33" height="15" frameX="-1958" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_18" x="45" y="1" width="36" height="15" frameX="-1958" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="NUM_19" x="128" y="1" width="35" height="15" frameX="-1957" frameY="-1447" frameWidth="3999" frameHeight="2333"/>
+</TextureAtlas>

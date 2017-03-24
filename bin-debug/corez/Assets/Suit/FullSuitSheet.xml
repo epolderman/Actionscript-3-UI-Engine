@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:023b1d322a4a7f629a3e79bfd4b7d409:cca9c0d0658c3b7c476a90f1c0eda4af:7776fdd79e3b8b03d53c67226eba83af$ -->
+<TextureAtlas imagePath="FullSuitSheet.png" width="1236" height="228">
+    <SubTexture name="InfoModuleBottom" x="1" y="167" width="327" height="60" frameX="-1836" frameY="-1410" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="InfoModuleTop" x="330" y="167" width="327" height="60" frameX="-1836" frameY="-862" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="suitBottom2" x="1" y="1" width="1234" height="81" frameX="-1383" frameY="-1410" frameWidth="3999" frameHeight="2333"/>
+    <SubTexture name="suitTop2" x="1" y="84" width="1234" height="81" frameX="-1383" frameY="-841" frameWidth="3999" frameHeight="2333"/>
+</TextureAtlas>

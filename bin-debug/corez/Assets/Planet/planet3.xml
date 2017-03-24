@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d59361eda0d76c33aba4eb53add1eb46:1669e0f2b97825076d4ed6bc3105fbc0:40e9f06280d5265cbc85665a1e4779dd$ -->
+<TextureAtlas imagePath="planet3.png" width="1202" height="1604">
+    <SubTexture name="planet09" x="1" y="1" width="1200" height="800"/>
+    <SubTexture name="planet10" x="1" y="803" width="1200" height="800"/>
+</TextureAtlas>
