@@ -3,6 +3,7 @@ Actionscript 3 UI of Starcraft II Confederate Marine Corps Powered Combat Suit <
 A tribute to one of my favorite games: Starcraft II by Blizzard Ent.<br>
 ui engineer: erik<br>
 ui artist: amanda<br>
+# The project was built as a quick prototype
 
 Info:<br>
 Application Type: 3D Interactive User Interface (SWF)<br>
