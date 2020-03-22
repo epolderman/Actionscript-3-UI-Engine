@@ -5,6 +5,8 @@ ui engineer: erik<br>
 ui artist: amanda<br>
 # The project was built as a quick prototype
 
+![](WinterSmallSize.gif)
+
 Info:<br>
 Application Type: 3D Interactive User Interface (SWF)<br>
 Description: Confederate Marine Corps Powered Suit 808 Variant User Interface [project winter]<br>
